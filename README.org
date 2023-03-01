@@ -1,0 +1,13 @@
+#+title: DrZhawitche's qtile config (everforest theme)
+
+* Dependencies
+  - Qtile
+  - Qtile-extras
+  - Picom-jonaburg
+  - Alacritty
+  - Vim
+  - Most apps used in the config file (for full desktop)
+  
+* Screenshot :
+
+[[https://github.com/DrZhawitche/dotfiles/blob/main/.screenshots/qtile.png]]
