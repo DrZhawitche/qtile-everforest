@@ -84,6 +84,7 @@ keys = [
     Key([mod, "shift"], "m", lazy.spawn("deadbeef"), desc="Open deadbeef"),
     Key([mod, "shift"], "d", lazy.spawn("webcord"), desc="Open discord"),
     Key([], "Print", lazy.spawn("flameshot gui"), desc="Launch flameshot"),
+    Key([ "shift" ], "Escape", lazy.spawn("systemctl suspend"), desc="Suspend the system"),
     #KeyChords
     KeyChord([mod], "e", [
         Key([], "e", lazy.spawn("element-desktop")),
